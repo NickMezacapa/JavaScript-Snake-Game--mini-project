@@ -5,6 +5,9 @@ Classic Snake Game written in Vanilla JavaScript with the use of CSS grid. Simpl
 This is another from the mini-project series. This was a great learning expereince and good practice of CSS grid. 
 The game is fully functional according to the classic Snake gameplay. 
 
+## Live Site
+https://nickmezacapa.github.io/JavaScript-Snake-Game--mini-project/
+
 ## Work Still To Be Done:
 - I would like to add score keeping functionality as well as session high-score recording.
 - I would like to make the snake movement slightly smoother.
